@@ -1,0 +1,5 @@
+R1:
+GigabitEthernet0/0
+ ip address 172.16.31.1 255.255.255.0
+GigabitEthernet0/1
+ ip address 192.168.0.2 255.255.255.0
